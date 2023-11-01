@@ -1,4 +1,5 @@
-# cat-2
+# Algorithms
+
 ##particle swarm optimisation:
           building a nn model using keras and using particle swarm optimisatoin which was built from scratch as the optimizer
 
